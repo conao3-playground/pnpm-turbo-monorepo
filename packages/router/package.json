@@ -1,5 +1,5 @@
 {
-  "name": "listview",
+  "name": "router",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "listview": "workspace:^"
   }
 }
