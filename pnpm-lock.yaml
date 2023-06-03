@@ -20,7 +20,7 @@ importers:
 
   packages/router:
     dependencies:
-      listview:
+      '@local/listview':
         specifier: workspace:^
         version: link:../listview
     devDependencies:
